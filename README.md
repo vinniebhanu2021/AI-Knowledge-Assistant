@@ -1,5 +1,4 @@
 # AI-Knowledge-Assistant
-# Total RAG Project
 
 This repository presents a step-by-step implementation of a Retrieval-Augmented Generation (RAG) pipeline, covering document processing, keyword and semantic retrieval, hybrid search, reranking, and advanced LLM-powered question answering
 
